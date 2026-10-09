@@ -61,6 +61,7 @@ C:\Users\creat\Documents\Naresh it\Venv\lr_proj\Scripts>activate
 (lr_proj) C:\Users\creat\Documents\Naresh it\flask_example\FlaskProject>pip install -r requirements.txt
 
             trhn ::pip install pandas 
-
+            do pip install pandas 
+            
 
 
